@@ -7,7 +7,7 @@ namespace JenkinsDemo
         static void Main(string[] args)
         {
             Console.WriteLine("DragonBall Super");
-            Console.WriteLine("Jujutsu Kaisen")
+            Console.WriteLine("Jujutsu Kaisen");
             Console.ReadLine();
         }
     }
